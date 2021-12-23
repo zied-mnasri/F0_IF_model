@@ -1,7 +1,7 @@
 ### F0_IF_model ###
 This is a proposed algorithm to extract voicing decision and pitch from instantaneous frequency of a speech signal
 
-Matalb release MatlabR2020
+Matlab release R2020
 
 List of code file
 
