@@ -82,3 +82,18 @@ OverlapLength=timestep*fs/1000;
 Range=[f0min,f0max; %same boundary values for both methods
 
 MedianFilterLength=smoothing_dur*fs/1000); %Sampling frequency (fs) is obtained by Matlab function audioread
+
+%%%%%%%%%%%%%%% Notice about citation %%%%%%%%%%%%%%%%%%%
+If you use this code for academic research, please cite it as follows:
+
+Mnasri, Zied, Stefano Rovetta, and Francesco Masulli. "A Novel Pitch Detection Algorithm Based On Instantaneous Frequency." 2021 29th European Signal Processing Conference (EUSIPCO). IEEE, 2021.
+
+Bibtex
+@inproceedings{mnasri2021novel,
+  title={A Novel Pitch Detection Algorithm Based On Instantaneous Frequency},
+  author={Mnasri, Zied and Rovetta, Stefano and Masulli, Francesco},
+  booktitle={2021 29th European Signal Processing Conference (EUSIPCO)},
+  pages={16--20},
+  year={2021},
+  organization={IEEE}
+}
